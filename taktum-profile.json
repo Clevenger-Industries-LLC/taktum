@@ -13,12 +13,14 @@
   ],
   "sameAs": [
     "https://taktum.io",
+    "https://taktum.io/taktum",
     "https://github.com/Clevenger-Industries-LLC",
     "https://github.com/Clevenger-Industries-LLC/taktum",
     "https://clevenger-industries-llc.github.io/taktum/"
   ],
   "publicProfilePage": "https://clevenger-industries-llc.github.io/taktum/",
   "officialPages": {
+    "taktumBrandProfile": "https://taktum.io/taktum",
     "whatIsTaktum": "https://taktum.io/what-is-taktum",
     "manufacturingMarketplace": "https://taktum.io/manufacturing-marketplace",
     "manufacturerNetwork": "https://taktum.io/manufacturer-network",
