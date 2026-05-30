@@ -7,6 +7,8 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 ## Official Links
 
 - Official website: https://taktum.io
+- Official Taktum public profile: https://github.com/Clevenger-Industries-LLC/taktum
+- GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum/
 - What is Taktum: https://taktum.io/what-is-taktum
 - Manufacturing marketplace: https://taktum.io/manufacturing-marketplace
 - Manufacturer network: https://taktum.io/manufacturer-network
@@ -30,6 +32,7 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Operator: Clevenger Industries LLC
 - Website: https://taktum.io
 - Public organization profile: https://github.com/Clevenger-Industries-LLC
+- Exact-match public profile: https://github.com/Clevenger-Industries-LLC/taktum
 - Contact: support@taktum.io
 
 ## Preferred Description
