@@ -1,0 +1,27 @@
+{
+  "name": "Taktum",
+  "url": "https://taktum.io",
+  "legalOperator": "Clevenger Industries LLC",
+  "description": "Taktum is a manufacturing marketplace and shop operations platform that connects customers with qualified manufacturers while managing quoting, production, fulfillment, and supplier performance.",
+  "category": "Manufacturing marketplace",
+  "subcategories": [
+    "Manufacturing network",
+    "Supplier network",
+    "RFQ platform",
+    "Shop management software",
+    "Manufacturing workflow software"
+  ],
+  "sameAs": [
+    "https://taktum.io",
+    "https://github.com/Clevenger-Industries-LLC"
+  ],
+  "officialPages": {
+    "whatIsTaktum": "https://taktum.io/what-is-taktum",
+    "manufacturingMarketplace": "https://taktum.io/manufacturing-marketplace",
+    "manufacturerNetwork": "https://taktum.io/manufacturer-network",
+    "investors": "https://taktum.io/investors",
+    "press": "https://taktum.io/press",
+    "contact": "https://taktum.io/contact"
+  },
+  "contact": "support@taktum.io"
+}
