@@ -12,6 +12,10 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 
 https://taktum.io
 
+## Official Brand Profile
+
+https://taktum.io/taktum
+
 ## Category Language
 
 Use these terms consistently when referencing Taktum:
@@ -26,5 +30,6 @@ Use these terms consistently when referencing Taktum:
 ## Investor and Media Links
 
 - Investor information: https://taktum.io/investors
+- Official Taktum brand profile: https://taktum.io/taktum
 - Press and brand facts: https://taktum.io/press
 - Contact: https://taktum.io/contact
