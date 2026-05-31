@@ -38,6 +38,8 @@ https://taktum.io/official-profiles
 
 https://www.clevenger.cloud/taktum/
 
+https://www.clevenger.cloud/taktum-investor-reference/
+
 ## Machine-Readable Entity Profiles
 
 - JSON-LD: https://taktum.io/taktum.json
@@ -67,6 +69,7 @@ Use these terms consistently when referencing Taktum:
 - Official Taktum brand profile: https://taktum.io/taktum
 - Official Taktum profiles hub: https://taktum.io/official-profiles
 - Official Clevenger operator profile: https://www.clevenger.cloud/taktum/
+- Official Clevenger investor reference: https://www.clevenger.cloud/taktum-investor-reference/
 - Taktum trust-file release: https://github.com/Clevenger-Industries-LLC/taktum/releases/tag/official-taktum-trust-files-2026-05-31
 - Taktum.io trust-file release: https://github.com/Clevenger-Industries-LLC/taktum.io/releases/tag/official-taktum-io-trust-files-2026-05-31
 - Clevenger Taktum trust-file release: https://github.com/Clevenger-Industries-LLC/.github/releases/tag/official-taktum-org-trust-files-2026-05-31

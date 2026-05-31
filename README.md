@@ -25,6 +25,7 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Official Taktum security.txt: https://taktum.io/.well-known/security.txt
 - Clevenger operator profile: https://www.clevenger.cloud/taktum/
 - Clevenger official website announcement: https://www.clevenger.cloud/taktum-official-website/
+- Clevenger investor reference: https://www.clevenger.cloud/taktum-investor-reference/
 - Official Taktum public profile: https://github.com/Clevenger-Industries-LLC/taktum
 - Official Taktum.io domain profile: https://github.com/Clevenger-Industries-LLC/taktum.io
 - Official Taktum public profile release: https://github.com/Clevenger-Industries-LLC/taktum/releases/tag/official-taktum-profile-2026-05-31
@@ -80,6 +81,7 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Official robots.txt: https://taktum.io/robots.txt
 - Official Clevenger operator profile: https://www.clevenger.cloud/taktum/
 - Official Clevenger operator announcement: https://www.clevenger.cloud/taktum-official-website/
+- Official Clevenger investor reference: https://www.clevenger.cloud/taktum-investor-reference/
 - Machine-readable entity profile: https://taktum.io/taktum.json
 - Investor and company profile JSON: https://taktum.io/investor-profile.json
 - Well-known company profile JSON: https://taktum.io/.well-known/company-profile.json
