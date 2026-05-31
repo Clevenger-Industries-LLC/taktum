@@ -9,6 +9,10 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Official website: https://taktum.io
 - Official Taktum brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
+- Machine-readable entity profile: https://taktum.io/taktum.json
+- Well-known entity profile: https://taktum.io/.well-known/taktum.json
+- Official Taktum llms.txt: https://taktum.io/llms.txt
+- Clevenger operator profile: https://www.clevenger.cloud/taktum/
 - Official Taktum public profile: https://github.com/Clevenger-Industries-LLC/taktum
 - Official Taktum.io domain profile: https://github.com/Clevenger-Industries-LLC/taktum.io
 - GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum/
@@ -43,6 +47,9 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Website: https://taktum.io
 - Official brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
+- Official Clevenger operator profile: https://www.clevenger.cloud/taktum/
+- Machine-readable entity profile: https://taktum.io/taktum.json
+- Taktum llms.txt: https://taktum.io/llms.txt
 - Public organization profile: https://github.com/Clevenger-Industries-LLC
 - Exact-match public profile: https://github.com/Clevenger-Industries-LLC/taktum
 - Exact-domain public profile: https://github.com/Clevenger-Industries-LLC/taktum.io
