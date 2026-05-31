@@ -11,6 +11,8 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Official Taktum public profile: https://github.com/Clevenger-Industries-LLC/taktum
 - Official Taktum.io domain profile: https://github.com/Clevenger-Industries-LLC/taktum.io
 - GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum/
+- GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum/llms.txt
+- GitHub Pages JSON profile: https://clevenger-industries-llc.github.io/taktum/taktum-profile.json
 - Taktum.io GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum.io/
 - What is Taktum: https://taktum.io/what-is-taktum
 - Manufacturing marketplace: https://taktum.io/manufacturing-marketplace
