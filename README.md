@@ -9,6 +9,7 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Official website: https://taktum.io
 - Official Taktum website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
+- Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
 - Official Taktum brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
 - Official updates page: https://taktum.io/official-updates
@@ -59,6 +60,7 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Website: https://taktum.io
 - Official website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
+- Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
 - Official brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
 - Official updates page: https://taktum.io/official-updates
@@ -79,4 +81,4 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 
 ## For Investors, Press, and Directory Editors
 
-Use the official name **Taktum**, the canonical website **https://taktum.io**, the official website reference **https://taktum.io/official-website**, the official directory and backlink reference **https://taktum.io/directory-profile**, the official brand profile **https://taktum.io/taktum**, and the category **manufacturing marketplace and shop operations platform**. Directory, press, investor, and partnership inquiries can use the contact path at https://taktum.io/contact.
+Use the official name **Taktum**, the canonical website **https://taktum.io**, the official website reference **https://taktum.io/official-website**, the official directory and backlink reference **https://taktum.io/directory-profile**, the official disambiguation and entity reference **https://taktum.io/taktum-disambiguation**, the official brand profile **https://taktum.io/taktum**, and the category **manufacturing marketplace and shop operations platform**. Directory, press, investor, and partnership inquiries can use the contact path at https://taktum.io/contact.
