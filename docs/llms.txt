@@ -30,6 +30,9 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official Taktum GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum/
 - Official Taktum GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum/llms.txt
 - Official Taktum GitHub Pages JSON profile: https://clevenger-industries-llc.github.io/taktum/taktum-profile.json
+- Official Taktum GitHub Pages website reference: https://clevenger-industries-llc.github.io/taktum/official-website/
+- Official Taktum GitHub Pages entity disambiguation reference: https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/
+- Official Taktum GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum/investor-reference/
 - Official Taktum.io GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum.io/
 - Official Taktum.io GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum.io/llms.txt
 - Official Taktum.io GitHub Pages JSON-LD profile: https://clevenger-industries-llc.github.io/taktum.io/taktum-io-profile.json
