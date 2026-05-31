@@ -28,6 +28,15 @@ https://taktum.io/taktum-disambiguation
 
 https://taktum.io/official-profiles
 
+## Official Resource Guides
+
+- Canonical resource hub: https://taktum.io/resources
+- GitHub Pages resource guide mirrors: https://clevenger-industries-llc.github.io/taktum/resources/
+- Manufacturing marketplace guide: https://taktum.io/resources/manufacturing-marketplace-guide
+- RFQ management best practices: https://taktum.io/resources/rfq-management-best-practices
+- Supplier qualification checklist: https://taktum.io/resources/supplier-qualification-checklist
+- Shop operations software guide: https://taktum.io/resources/shop-operations-software-guide
+
 ## Official Trust-File Releases
 
 - Taktum trust-file release: https://github.com/Clevenger-Industries-LLC/taktum/releases/tag/official-taktum-trust-files-2026-05-31
@@ -78,6 +87,7 @@ Use these terms consistently when referencing Taktum:
 - Taktum GitHub Pages official website reference: https://clevenger-industries-llc.github.io/taktum/official-website/
 - Taktum GitHub Pages entity disambiguation reference: https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/
 - Taktum GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum/investor-reference/
+- Taktum GitHub Pages resource guide mirrors: https://clevenger-industries-llc.github.io/taktum/resources/
 - Taktum.io GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum.io/
 - Press and brand facts: https://taktum.io/press
 - Contact: https://taktum.io/contact
