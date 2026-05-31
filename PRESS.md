@@ -59,6 +59,9 @@ Use these terms consistently when referencing Taktum:
 - Official Clevenger operator profile: https://www.clevenger.cloud/taktum/
 - Official Taktum.io domain profile: https://github.com/Clevenger-Industries-LLC/taktum.io
 - Taktum GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum/
+- Taktum GitHub Pages official website reference: https://clevenger-industries-llc.github.io/taktum/official-website/
+- Taktum GitHub Pages entity disambiguation reference: https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/
+- Taktum GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum/investor-reference/
 - Taktum.io GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum.io/
 - Press and brand facts: https://taktum.io/press
 - Contact: https://taktum.io/contact

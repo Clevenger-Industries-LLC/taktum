@@ -31,6 +31,9 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum/
 - GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum/llms.txt
 - GitHub Pages JSON profile: https://clevenger-industries-llc.github.io/taktum/taktum-profile.json
+- GitHub Pages website reference: https://clevenger-industries-llc.github.io/taktum/official-website/
+- GitHub Pages entity disambiguation reference: https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/
+- GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum/investor-reference/
 - Taktum.io GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum.io/
 - What is Taktum: https://taktum.io/what-is-taktum
 - Manufacturing marketplace: https://taktum.io/manufacturing-marketplace
@@ -70,6 +73,9 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Official Clevenger operator profile: https://www.clevenger.cloud/taktum/
 - Machine-readable entity profile: https://taktum.io/taktum.json
 - Taktum llms.txt: https://taktum.io/llms.txt
+- GitHub Pages official website reference: https://clevenger-industries-llc.github.io/taktum/official-website/
+- GitHub Pages entity disambiguation reference: https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/
+- GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum/investor-reference/
 - Public organization profile: https://github.com/Clevenger-Industries-LLC
 - Exact-match public profile: https://github.com/Clevenger-Industries-LLC/taktum
 - Exact-domain public profile: https://github.com/Clevenger-Industries-LLC/taktum.io

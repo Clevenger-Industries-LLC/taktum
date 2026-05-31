@@ -40,6 +40,9 @@
         "https://clevenger-industries-llc.github.io/taktum/",
         "https://clevenger-industries-llc.github.io/taktum/llms.txt",
         "https://clevenger-industries-llc.github.io/taktum/taktum-profile.json",
+        "https://clevenger-industries-llc.github.io/taktum/official-website/",
+        "https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/",
+        "https://clevenger-industries-llc.github.io/taktum/investor-reference/",
         "https://clevenger-industries-llc.github.io/taktum.io/",
         "https://clevenger-industries-llc.github.io/taktum.io/llms.txt",
         "https://clevenger-industries-llc.github.io/taktum.io/taktum-io-profile.json",
@@ -97,6 +100,21 @@
           "@type": "WebPage",
           "name": "Taktum by Clevenger Industries operator profile",
           "url": "https://www.clevenger.cloud/taktum/"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Taktum official website GitHub Pages reference",
+          "url": "https://clevenger-industries-llc.github.io/taktum/official-website/"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Taktum entity disambiguation GitHub Pages reference",
+          "url": "https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/"
+        },
+        {
+          "@type": "AboutPage",
+          "name": "Taktum investor GitHub Pages reference",
+          "url": "https://clevenger-industries-llc.github.io/taktum/investor-reference/"
         },
         {
           "@type": "DataDownload",
@@ -170,7 +188,10 @@
         "https://taktum.io/taktum.json",
         "https://taktum.io/llms.txt",
         "https://taktum.io/feed.xml",
-        "https://clevenger-industries-llc.github.io/taktum/"
+        "https://clevenger-industries-llc.github.io/taktum/",
+        "https://clevenger-industries-llc.github.io/taktum/official-website/",
+        "https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/",
+        "https://clevenger-industries-llc.github.io/taktum/investor-reference/"
       ],
       "identifier": [
         {
@@ -200,6 +221,45 @@
       "url": "https://clevenger-industries-llc.github.io/taktum/",
       "name": "Taktum official public profile",
       "description": "Official public GitHub Pages profile for Taktum.",
+      "about": {
+        "@id": "https://taktum.io/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://taktum.io/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://clevenger-industries-llc.github.io/taktum/official-website/#webpage",
+      "url": "https://clevenger-industries-llc.github.io/taktum/official-website/",
+      "name": "Taktum official website GitHub Pages reference",
+      "description": "Official GitHub Pages reference confirming that taktum.io is the Taktum website.",
+      "about": {
+        "@id": "https://taktum.io/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://taktum.io/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/#webpage",
+      "url": "https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/",
+      "name": "Taktum entity disambiguation GitHub Pages reference",
+      "description": "Official GitHub Pages reference disambiguating Taktum as the manufacturing marketplace at taktum.io.",
+      "about": {
+        "@id": "https://taktum.io/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://taktum.io/#organization"
+      }
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "https://clevenger-industries-llc.github.io/taktum/investor-reference/#webpage",
+      "url": "https://clevenger-industries-llc.github.io/taktum/investor-reference/",
+      "name": "Taktum investor GitHub Pages reference",
+      "description": "Official GitHub Pages investor reference for Taktum and taktum.io.",
       "about": {
         "@id": "https://taktum.io/#organization"
       },
