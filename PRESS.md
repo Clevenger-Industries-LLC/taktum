@@ -16,6 +16,10 @@ https://taktum.io
 
 https://taktum.io/taktum
 
+## Official Directory and Backlink Reference
+
+https://taktum.io/directory-profile
+
 ## Official Profiles Hub
 
 https://taktum.io/official-profiles
@@ -44,6 +48,7 @@ Use these terms consistently when referencing Taktum:
 ## Investor and Media Links
 
 - Investor information: https://taktum.io/investors
+- Directory and backlink reference: https://taktum.io/directory-profile
 - Official Taktum brand profile: https://taktum.io/taktum
 - Official Taktum profiles hub: https://taktum.io/official-profiles
 - Official Clevenger operator profile: https://www.clevenger.cloud/taktum/
