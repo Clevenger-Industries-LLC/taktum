@@ -27,9 +27,14 @@
   "domainProfilePage": "https://clevenger-industries-llc.github.io/taktum.io/",
   "officialPages": {
     "taktumBrandProfile": "https://taktum.io/taktum",
+    "officialProfiles": "https://taktum.io/official-profiles",
     "whatIsTaktum": "https://taktum.io/what-is-taktum",
     "manufacturingMarketplace": "https://taktum.io/manufacturing-marketplace",
     "manufacturerNetwork": "https://taktum.io/manufacturer-network",
+    "forClients": "https://taktum.io/for-clients",
+    "forManufacturers": "https://taktum.io/for-manufacturers",
+    "pricing": "https://taktum.io/pricing",
+    "mcrs": "https://taktum.io/mcrs",
     "investors": "https://taktum.io/investors",
     "press": "https://taktum.io/press",
     "contact": "https://taktum.io/contact"
