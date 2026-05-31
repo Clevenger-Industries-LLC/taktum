@@ -10,6 +10,8 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Official Taktum website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
+- Official Taktum search entity reference: https://taktum.io/search-entity-reference
+- Official Taktum investor reference: https://taktum.io/investor-reference
 - Official Taktum brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
 - Official updates page: https://taktum.io/official-updates
@@ -42,6 +44,7 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - GitHub Pages JSON profile: https://clevenger-industries-llc.github.io/taktum/taktum-profile.json
 - GitHub Pages website reference: https://clevenger-industries-llc.github.io/taktum/official-website/
 - GitHub Pages entity disambiguation reference: https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/
+- GitHub Pages search entity reference: https://clevenger-industries-llc.github.io/taktum/search-entity-reference/
 - GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum/investor-reference/
 - Taktum.io GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum.io/
 - What is Taktum: https://taktum.io/what-is-taktum
@@ -73,6 +76,8 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Official website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
+- Official search entity reference: https://taktum.io/search-entity-reference
+- Official investor reference: https://taktum.io/investor-reference
 - Official brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
 - Official updates page: https://taktum.io/official-updates
@@ -90,6 +95,7 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Taktum security.txt: https://taktum.io/.well-known/security.txt
 - GitHub Pages official website reference: https://clevenger-industries-llc.github.io/taktum/official-website/
 - GitHub Pages entity disambiguation reference: https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/
+- GitHub Pages search entity reference: https://clevenger-industries-llc.github.io/taktum/search-entity-reference/
 - GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum/investor-reference/
 - Public organization profile: https://github.com/Clevenger-Industries-LLC
 - Exact-match public profile: https://github.com/Clevenger-Industries-LLC/taktum
@@ -102,4 +108,4 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 
 ## For Investors, Press, and Directory Editors
 
-Use the official name **Taktum**, the canonical website **https://taktum.io**, the official website reference **https://taktum.io/official-website**, the official directory and backlink reference **https://taktum.io/directory-profile**, the official disambiguation and entity reference **https://taktum.io/taktum-disambiguation**, the official brand profile **https://taktum.io/taktum**, and the category **manufacturing marketplace and shop operations platform**. Directory, press, investor, and partnership inquiries can use the contact path at https://taktum.io/contact.
+Use the official name **Taktum**, the canonical website **https://taktum.io**, the official website reference **https://taktum.io/official-website**, the official directory and backlink reference **https://taktum.io/directory-profile**, the official disambiguation and entity reference **https://taktum.io/taktum-disambiguation**, the official search entity reference **https://taktum.io/search-entity-reference**, the official investor reference **https://taktum.io/investor-reference**, the official brand profile **https://taktum.io/taktum**, and the category **manufacturing marketplace and shop operations platform**. Directory, press, investor, and partnership inquiries can use the contact path at https://taktum.io/contact.
