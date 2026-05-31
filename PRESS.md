@@ -31,5 +31,7 @@ Use these terms consistently when referencing Taktum:
 
 - Investor information: https://taktum.io/investors
 - Official Taktum brand profile: https://taktum.io/taktum
+- Official Taktum.io domain profile: https://github.com/Clevenger-Industries-LLC/taktum.io
+- Taktum.io GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum.io/
 - Press and brand facts: https://taktum.io/press
 - Contact: https://taktum.io/contact
