@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Use this record to cite the official Taktum public profile."
+title: "Taktum"
+type: software
+abstract: "Taktum is a manufacturing marketplace and shop operations platform that connects customers with qualified manufacturers while managing quoting, production, fulfillment, and supplier performance."
+authors:
+  - name: "Clevenger Industries LLC"
+date-released: "2026-05-31"
+url: "https://taktum.io"
+repository-code: "https://github.com/Clevenger-Industries-LLC/taktum"
+keywords:
+  - Taktum
+  - taktum.io
+  - manufacturing marketplace
+  - RFQ platform
+  - supplier network
+  - shop management software
+identifiers:
+  - type: url
+    value: "https://taktum.io"
+  - type: url
+    value: "https://taktum.io/taktum"
+  - type: url
+    value: "https://taktum.io/search-entity-reference"
+  - type: url
+    value: "https://taktum.io/investor-reference"
+  - type: url
+    value: "https://clevenger-industries-llc.github.io/taktum/"
+license: "CC-BY-4.0"

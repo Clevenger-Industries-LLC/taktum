@@ -43,6 +43,8 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum/
 - GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum/llms.txt
 - GitHub Pages JSON profile: https://clevenger-industries-llc.github.io/taktum/taktum-profile.json
+- GitHub Pages CodeMeta JSON: https://clevenger-industries-llc.github.io/taktum/codemeta.json
+- GitHub Pages citation metadata: https://clevenger-industries-llc.github.io/taktum/CITATION.cff
 - GitHub Pages website reference: https://clevenger-industries-llc.github.io/taktum/official-website/
 - GitHub Pages directory reference: https://clevenger-industries-llc.github.io/taktum/directory-profile/
 - GitHub Pages entity disambiguation reference: https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/
@@ -96,6 +98,8 @@ Taktum connects customers with qualified manufacturers while managing quoting, p
 - Taktum llms.txt: https://taktum.io/llms.txt
 - Taktum humans.txt: https://taktum.io/humans.txt
 - Taktum security.txt: https://taktum.io/.well-known/security.txt
+- GitHub Pages CodeMeta JSON: https://clevenger-industries-llc.github.io/taktum/codemeta.json
+- GitHub Pages citation metadata: https://clevenger-industries-llc.github.io/taktum/CITATION.cff
 - GitHub Pages official website reference: https://clevenger-industries-llc.github.io/taktum/official-website/
 - GitHub Pages directory reference: https://clevenger-industries-llc.github.io/taktum/directory-profile/
 - GitHub Pages entity disambiguation reference: https://clevenger-industries-llc.github.io/taktum/entity-disambiguation/
