@@ -96,7 +96,9 @@
         "https://clevenger-industries-llc.github.io/taktum/resources/manufacturing-capability-verification/",
         "https://clevenger-industries-llc.github.io/taktum/resources/rfq-routing-for-fabrication-and-machining/",
         "https://clevenger-industries-llc.github.io/taktum/resources/supplier-performance-scorecards/",
-        "https://clevenger-industries-llc.github.io/taktum/resources/shop-capacity-management-for-manufacturers/"
+        "https://clevenger-industries-llc.github.io/taktum/resources/shop-capacity-management-for-manufacturers/",
+        "https://www.producthunt.com/products/taktum?launch=taktum",
+        "https://www.crunchbase.com/organization/taktum"
       ],
       "knowsAbout": [
         "Taktum",
@@ -348,6 +350,16 @@
           "name": "Shop Capacity Management for Manufacturers Taking Better-Fit Work",
           "url": "https://taktum.io/resources/shop-capacity-management-for-manufacturers",
           "sameAs": "https://clevenger-industries-llc.github.io/taktum/resources/shop-capacity-management-for-manufacturers/"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Taktum Product Hunt profile",
+          "url": "https://www.producthunt.com/products/taktum?launch=taktum"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Taktum Crunchbase organization profile",
+          "url": "https://www.crunchbase.com/organization/taktum"
         }
       ],
       "mainEntityOfPage": "https://taktum.io/taktum",
@@ -427,7 +439,9 @@
         "https://clevenger-industries-llc.github.io/taktum/search-entity-reference/",
         "https://clevenger-industries-llc.github.io/taktum/investor-reference/",
         "https://clevenger-industries-llc.github.io/taktum/brand-profile-kit/",
-        "https://clevenger-industries-llc.github.io/taktum/brand-profile-kit.json"
+        "https://clevenger-industries-llc.github.io/taktum/brand-profile-kit.json",
+        "https://www.producthunt.com/products/taktum?launch=taktum",
+        "https://www.crunchbase.com/organization/taktum"
       ],
       "identifier": [
         {
